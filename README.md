@@ -38,11 +38,11 @@ bash скрипт для дедупликации
 
 Видим, что максимальный процент метилирования достигается на стадии epiblast ~80%. Изначальный уровень на 8 cell 40%, далее он падает до 20% у ICM и вырастает на epiblast.
 
-[8 Cell](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836473_1_bismark_bt2_PE_report.html)
+#### [8 Cell](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836473_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/8cel.png)
-[ICM](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR3824222_1_bismark_bt2_PE_report.html)
+#### [ICM](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR3824222_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/icm.png)
-[Epiblast](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836475_1_bismark_bt2_PE_report.html)
+#### [Epiblast](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836475_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/epiblast.png)
 
 ---
