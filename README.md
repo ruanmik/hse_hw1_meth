@@ -36,6 +36,8 @@ bash скрипт для дедупликации
 ---
 ### №3 M-bias
 
+Видим, что максимальный процент метилирования достигается на стадии epiblast ~80%. Изначальный уровень на 8 cell 40%, далее он падает до 20% у ICM и вырастает на epiblast.
+
 [8 Cell](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836473_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/8cel.png)
 [ICM](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR3824222_1_bismark_bt2_PE_report.html)
@@ -44,4 +46,16 @@ bash скрипт для дедупликации
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/epiblast.png)
 
 ---
+### №4 BedGraph
+Видим, что наибольший уровень метилирования на стадии epiblast, также относительно высокий уровень у 8cell, а на стадии ICM значительно падает. 
+Это подтверждает результаты, полученные в предыдущем пункте. 
+![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/c.png)
+![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/i.png) 
+![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/e.png)
 
+---
+### №5 Уровень метелирования и покрытия
+Метелирование:
+![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/image_met.png)
+Покрытие:
+![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/image_cov.png)
