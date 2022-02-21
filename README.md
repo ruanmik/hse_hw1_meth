@@ -36,9 +36,12 @@ bash скрипт для дедупликации
 ---
 ### №3 M-bias
 
-[8 Cell]()
+[8 Cell](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836473_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/8cel.png)
-[ICM]()
+[ICM](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR3824222_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/icm.png)
-[Epiblast]()
+[Epiblast](https://github.com/ruanmik/hse_hw1_meth/blob/main/M-bias/SRR5836475_1_bismark_bt2_PE_report.html)
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/epiblast.png)
+
+---
+
