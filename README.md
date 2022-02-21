@@ -56,6 +56,6 @@ bash скрипт для дедупликации
 ---
 ### №5 Уровень метелирования и покрытия
 Метелирование:
-![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/image_met.png)
+![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/image_meth.png)
 Покрытие:
 ![](https://github.com/ruanmik/hse_hw1_meth/blob/main/images/image_cov.png)
